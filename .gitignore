@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+server/database/tasks.db
+server/database/tasks.db-journal
+server/database/tasks.db-wal
+server/database/tasks.db-shm
+.env
